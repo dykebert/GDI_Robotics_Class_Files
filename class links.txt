@@ -9,3 +9,6 @@ https://learn.adafruit.com/introducing-pro-trinket
 https://learn.adafruit.com/adafruit-arduino-ide-setup/overview 
 https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls#list-of-3rd-party-boards-support-urls
 http://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+
+Robotics Competitions
+http://robotics.pjhayward.net/#/home
